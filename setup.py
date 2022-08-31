@@ -31,6 +31,7 @@ tests_requires = [
     "pytest>=6.0.1",
     "pre-commit",
     "pylint-plugin-utils>=0.6",
+    "pytest-xdist==2.5.0",
     "pytest-cov>=2.12.1",
     "pytest-mock>=3.6.1",
     "pandas>=1.3.1",
